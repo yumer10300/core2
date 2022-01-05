@@ -1,0 +1,27 @@
+h1{
+    background-color: black;
+    color:white;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    text-align: left;
+    font-size: 18px;
+    font-weight: bold;
+}
+.blue{
+    background-color:blue;
+    color: white;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    text-align: center;
+    font-size: 14px;
+    font-weight:normal;
+    font-style: italic;
+}
+.lightblue{
+    background-color:lightblue;
+    color:blue;
+    font-family: 'Courier New', Courier, monospace;
+    font-style: italic;
+    font-size: 10px;
+    font-weight: normal;
+    text-align: right;
+    underline;
+}
